@@ -20,6 +20,13 @@
       "attention": false,
       "tech": "Sam Smith",
       "date": "2022-01-12T03:33:47.110Z"
+    },
+    {
+      "message": "Internet issue encountered",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2022-01-18T23:06:58.985Z",
+      "id": 6
     }
   ],
   "techs": [
